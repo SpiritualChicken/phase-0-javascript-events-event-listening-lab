@@ -9,3 +9,7 @@ input.addEventListener('click', clickAlert);
 }
 
 addingEventListener()
+
+//const addingEventListener = document.getElementById('button');
+//  addingEventListener.addEventListener('click', () => 
+//  alert('I was clicked'));
